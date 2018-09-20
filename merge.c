@@ -16,7 +16,7 @@ void merge_sort(int a[],int p,int r){
        }
   }
    
- 
+ //prueba
 void merge(int a[],int p,int q,int r){
      int n1,n2,i,j,k;
      int infinito=1000000000;
